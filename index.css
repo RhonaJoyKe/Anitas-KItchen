@@ -7,8 +7,35 @@ body{
    height:600px;
     background-repeat: no-repeat;
 }
-img{
+.header img{
     position: absolute;
     right:45%;
   bottom  :55%;
+}
+.header p{
+    position: absolute;
+    right:40%;
+    bottom:35%;
+    font-size: 40px;
+    color: white;
+
+}
+.items{
+    display:flex;
+    align-items: stretch;
+}
+.bars{
+    display: block;
+    
+    
+}
+.happyhour{
+    background-color:#e4e5e7 ;
+    width:350px;
+    height:100px;
+}
+.partytime{
+    background-color: #f15b29;
+    width:350px;
+    height:100px;
 }
