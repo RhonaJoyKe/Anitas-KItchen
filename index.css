@@ -22,20 +22,33 @@ body{
 }
 .items{
     display:flex;
-    align-items: stretch;
+
 }
 .bars{
     display: block;
+   
     
     
 }
 .happyhour{
     background-color:#e4e5e7 ;
     width:350px;
-    height:100px;
+    height:110px;
+   text-align: center;
+    font-size: 30px;
+    position: absolute;bottom: 67px;;
+    
+   
 }
 .partytime{
     background-color: #f15b29;
     width:350px;
-    height:100px;
+    height:105px;
+    position: relative;top: 75px;
+    text-align: center;
+    font-size: 30px;
+  
+    
+    
 }
+    
