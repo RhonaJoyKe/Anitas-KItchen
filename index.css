@@ -103,6 +103,22 @@ body{
         border: 2px solid #F15A29;
         text-align:center;
     }
-    .view>p{
+    .view p{
         color:#F15A29;
+    }
+    .drinks{
+        margin-top: 20px;
+        display: flex;
+        margin-left: 200px;
+       
+    }
+    .img1{
+        display: flex;
+        box-shadow:0px 0px 4px 3px grey;
+        padding: 10px;
+        margin-left:80px;
+    }
+    .td p{
+        color:black;
+        font-weight: 800;
     }
