@@ -36,7 +36,8 @@ body{
     height:110px;
    text-align: center;
     font-size: 30px;
-    position: absolute;bottom: 67px;;
+    position: absolute;bottom: 67px;
+    
     
    
 }
@@ -47,8 +48,46 @@ body{
     position: relative;top: 75px;
     text-align: center;
     font-size: 30px;
-  
-    
+    text-decoration: white;
+
+}
+.bfast{
+    position: relative;
     
 }
+.txtb{
+   position: absolute;right: 180px;
+   top:100px;
+   font-size: 30px;
+  }
+  
+.lun{
+    text-align: center;
+    font-size: 30px;
+}
+.txtl{
+    position: absolute;right: 500px;
+    bottom:100px;
+    font-size: 30px;
+    text-align: center;
+   }
+.din{
+    text-align: center;
+    font-size: 30px;
+}
+.txtd{
+    position: absolute;right: 180px;
+    bottom:100px;
+    font-size: 30px;
+   }
+   .fastfood{
+       margin-top: 20px;
+       display: flex;
+       margin-left: 200px;
+   }
+   .img{
+       border:5px groove white;
+      display: grid;
+      padding: 10px;
+   }
     
