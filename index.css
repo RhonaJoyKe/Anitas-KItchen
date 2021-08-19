@@ -20,6 +20,12 @@ body{
     color: white;
 
 }
+.menu {
+    width: 35px;
+    height: 5px;
+    background-color:white;
+  
+  }
 .items{
     display:flex;
 
@@ -112,6 +118,9 @@ body{
         margin-left: 200px;
        
     }
+    .drinks>view>p{
+        color:#F15A29;
+    }
     .img1{
         display: flex;
         box-shadow:0px 0px 4px 3px grey;
@@ -122,3 +131,20 @@ body{
         color:black;
         font-weight: 800;
     }
+    .sec5{
+        margin-top: 20px;
+        background-image: url(assets_anita/backgrounds/foodsBg.jpg);
+        height: 600px;
+      }
+      .sec4{
+          position:absolute; left:300px;bottom: -1380px;
+          background-color: white;
+      }
+    li{
+        display: inline;
+        font-size: 20px;
+        padding: 20px;
+    }
+    .images{
+        display: flex;
+         }
