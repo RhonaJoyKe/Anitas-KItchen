@@ -148,3 +148,15 @@ body{
     .images{
         display: flex;
          }
+    table{
+        width: 80%;
+        box-shadow:0px 0px 4px 3px grey;
+        margin-top: 20px;
+        margin-right: -200px;
+    }
+    td{
+        padding: 40px;
+    }
+    .Happimg{
+        display: flex;
+    }
