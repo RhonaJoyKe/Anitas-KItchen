@@ -189,10 +189,12 @@ body{
         text-align: center;
         font-size: 20px;
         color: white;
+        padding-top: 40px;
     }
     .ems{
         display: flex;
         justify-content: space-evenly;
+        padding-top: -10px;
     }
     .em{
         background-color: grey;
@@ -206,9 +208,11 @@ body{
         border-radius: 5px;
         width: 250px;
         text-align: center;
+        margin-left: -350px;
         
     }
     .footer{
+        margin-top: 10px;
         background-color:#F15A29 ;
         height: 300px;
     }
