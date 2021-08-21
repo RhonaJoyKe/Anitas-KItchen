@@ -91,8 +91,8 @@ body{
     font-size: 30px;
 }
 .txtl{
-    position: absolute;right: 500px;
-    bottom:100px;
+    position: absolute;right: 610px;
+    bottom:50px;
     font-size: 30px;
     text-align: center;
    }
@@ -101,8 +101,8 @@ body{
     font-size: 30px;
 }
 .txtd{
-    position: absolute;right: 180px;
-    bottom:100px;
+    position: absolute;right: 250px;
+    bottom:50px;
     font-size: 30px;
    }
    .fastfood{
@@ -137,9 +137,7 @@ body{
         margin-left: 200px;
        
     }
-    .drinks>view>p{
-        color:#F15A29;
-    }
+    
     .img1{
         display: flex;
         box-shadow:0px 0px 4px 3px grey;
@@ -162,8 +160,15 @@ body{
     li{
         display: inline;
         font-size: 20px;
-        padding: 20px;
-    }
+        padding-left: 20px;
+       
+        }
+    #li1{
+     background-color: grey;
+     width: 10px;
+     padding-left: 20px;
+     float: center;
+    } 
     .images{
         display: flex;
          }
@@ -221,6 +226,7 @@ body{
     .imgft{
       position: relative;right:-700px; top: 20px;
       display: flex;
+
     }
     .imgft1{
         display: flex;
