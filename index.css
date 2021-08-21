@@ -165,8 +165,9 @@ body{
         }
     #li1{
      background-color: grey;
-     width: 10px;
-     padding-left: 20px;
+     width: 30px;
+     height:5px;
+     padding-right: 180px;
      float: center;
     } 
     .images{
